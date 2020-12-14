@@ -1,2 +1,3 @@
 ### Merhaba 👋
-<iframe height="%100" width="%100" src="https://mustafakktr.cf"></iframe>
+-Ben Kimim Ben 3 Yıldır Network Alanıyla Uğraşıyorun
+-Çok İyi Değilim Ama Çok Kötüde Değilim
