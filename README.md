@@ -1,3 +1,3 @@
 ### Merhaba 👋
 -Ben Kimim Ben 3 Yıldır Network Alanıyla Uğraşıyorun
--Çok İyi Değilim Ama Çok Kötüde Değilim
+https://github-readme-stats.vercel.app/api?username=mustafakktr2008&show_icons=true&theme=tokyonight
